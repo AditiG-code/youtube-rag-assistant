@@ -10,5 +10,6 @@ faiss-cpu
 python-dotenv
 transformers
 huggingface-hub
+langchain-groq
 
 
