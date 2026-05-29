@@ -78,17 +78,7 @@ streamlit run app.py
 
 ## 🧠 RAG Pipeline
 
-YouTube Video
-    ↓
-Transcript Extraction
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-FAISS Retrieval
-    ↓
-LLM Response Generation
+YouTube Video-> Transcript Extraction -> Chunking -> Embeddings -> FAISS Retrieval-> LLM Response Generation
 
 ---------------------------
 
