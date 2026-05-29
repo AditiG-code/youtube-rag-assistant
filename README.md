@@ -71,9 +71,8 @@ streamlit run app.py
 ---------------------------
 
 ## 📸 Demo
-
-![Demo-images](demo1.png)
-![Demo-images](demo2.png)
+![Demo-image](images-demo/demo1.png)
+![Demo-image](images-demo/demo2.png)
 
 ---------------------------
 
