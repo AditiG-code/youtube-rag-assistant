@@ -30,17 +30,17 @@ Built using LangChain, FAISS, Groq, HuggingFace Embeddings, and Streamlit.
 ## 📂 Project Structure
 
 youtube-rag-assistant/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-└── src/
-    ├── transcript.py
-    ├── chunking.py
-    ├── vectorstore.py
-    └── rag_chain.py
+
+    app.py
+    requirements.txt
+    README.md
+    .gitignore
+
+    src/
+    transcript.py
+    chunking.py
+    vectorstore.py
+    rag_chain.py
 
 ---------------------------
 
